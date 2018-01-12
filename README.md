@@ -1,4 +1,4 @@
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zeit/next.js/tree/master/examples/with-apollo)
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/pixelmord/colorado-admin-frontend)
 # Colorado Admin Frontend
 
 **WARNING:** That's a lie, currently that is just a copy of [Zeit's](https://zeit.co) example on how to use nextJS with [Apollo](http://dev.apollodata.com) 
